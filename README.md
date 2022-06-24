@@ -1,1 +1,1 @@
-# HardwareStorage
+exercices from asp.net core tutorials
