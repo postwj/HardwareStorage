@@ -1,3 +1,4 @@
+using HardwareStorage.Models;
 using Microsoft.AspNetCore.Mvc;
 
 namespace HardwareStorage.Controllers

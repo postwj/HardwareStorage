@@ -1,4 +1,4 @@
-namespace HardwareStorage
+namespace HardwareStorage.Models
 {
     public class WeatherForecast
     {
